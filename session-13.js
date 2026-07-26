@@ -180,32 +180,32 @@
         //         break;
         // }
 
-        let weekDay = "friday"
-        switch (weekDay) {
-                case "monday":
-                console.log("start of the week")
-                break;
-                case "tuesday":
-                console.log("second day of the week")
-                break;
-                case "wednesday":
-                console.log("third day of the week")
-                break;
-                case "thursday":
-                console.log("middle of the week")
-                break;
-                case "friday":
-                console.log("start of the weekend")
-                break;
-                case"saturday":
-                console.log("weekend")
-                break;
-                case "sunday":
-                console.log("weekend")
-                break;
-                default:
-                   console.log("wrong input")
-                   break;
-        }
+        // let weekDay = "friday"
+        // switch (weekDay) {
+        //         case "monday":
+        //         console.log("start of the week")
+        //         break;
+        //         case "tuesday":
+        //         console.log("second day of the week")
+        //         break;
+        //         case "wednesday":
+        //         console.log("third day of the week")
+        //         break;
+        //         case "thursday":
+        //         console.log("middle of the week")
+        //         break;
+        //         case "friday":
+        //         console.log("start of the weekend")
+        //         break;
+        //         case"saturday":
+        //         console.log("weekend")
+        //         break;
+        //         case "sunday":
+        //         console.log("weekend")
+        //         break;
+        //         default:
+        //            console.log("wrong input")
+        //            break;
+        // }
 
 
